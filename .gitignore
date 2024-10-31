@@ -1,0 +1,11 @@
+# Ignore Python virtual environment and build directories
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+bin/
+build/
+dist/
+*.spec
+.DS_Store
